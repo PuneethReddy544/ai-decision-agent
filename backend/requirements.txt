@@ -1,0 +1,12 @@
+# fastapi
+# uvicorn
+# crewai
+# openai
+# python-dotenv
+
+
+fastapi
+uvicorn
+openai
+python-dotenv
+crewai
