@@ -5,8 +5,17 @@
 # python-dotenv
 
 
-fastapi
-uvicorn
-openai
-python-dotenv
-crewai
+# fastapi
+# uvicorn
+# openai
+# python-dotenv
+# crewai
+
+fastapi==0.115.0
+uvicorn==0.30.6
+python-dotenv==1.0.1
+openai==1.51.0
+groq==0.11.0
+litellm==1.48.17
+crewai==0.76.9
+tiktoken==0.7.0
