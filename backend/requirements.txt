@@ -17,5 +17,5 @@ python-dotenv==1.0.1
 openai==1.51.0
 groq==0.11.0
 litellm==1.48.17
-crewai==0.76.9
+crewai==0.11.2
 tiktoken==0.7.0
